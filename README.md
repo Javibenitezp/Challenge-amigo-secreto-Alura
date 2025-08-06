@@ -1,2 +1,3 @@
 # Challenge-amigo-secreto-Alura
-Challenge creado por alura para validar conocimientos relacionados con lógica Javascript, github, entre otros
+Challenge creado por alura para validar conocimientos relacionados con lógica Javascript, github, entre otros.
+Este es el inicio de un programa que podría ser desarrollado y podría generar funciones que se adecuen más a lo que requiera el usuario, por el momento cuenta con una lógica basica que consideraría creación de lista de nombres, sorteo y validación de numero par de usuarios (para que nadie quede sin su amigo secreto),validación de no repetición de nombre y el poder generar un reincio de listado para generar otro sorte una vez que se haya finalizado el primero.
